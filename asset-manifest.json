@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/tryuploadgithub/static/css/main.073c9b0a.css",
-    "main.js": "/tryuploadgithub/static/js/main.98f6fd2e.js",
+    "main.css": "/tryuploadgithub/static/css/main.20b28c07.css",
+    "main.js": "/tryuploadgithub/static/js/main.df843b30.js",
     "static/js/787.25c38a58.chunk.js": "/tryuploadgithub/static/js/787.25c38a58.chunk.js",
+    "static/media/city_lights.jpg": "/tryuploadgithub/static/media/city_lights.eda85de634c675f0314a.jpg",
+    "static/media/Me.jpg": "/tryuploadgithub/static/media/Me.c8b07293fd1b94bb8e4e.jpg",
+    "static/media/Forportfoliorb.png": "/tryuploadgithub/static/media/Forportfoliorb.7e25dfaf94dfd89cf547.png",
+    "static/media/windowsscreen.png": "/tryuploadgithub/static/media/windowsscreen.d407ffb04e7b4bf28870.png",
+    "static/media/pwkeeperone.png": "/tryuploadgithub/static/media/pwkeeperone.bdea9bc0dad4fffa47ac.png",
+    "static/media/pwkeeperoneone.png": "/tryuploadgithub/static/media/pwkeeperoneone.1a46f47b95357eac2008.png",
     "index.html": "/tryuploadgithub/index.html",
-    "main.073c9b0a.css.map": "/tryuploadgithub/static/css/main.073c9b0a.css.map",
-    "main.98f6fd2e.js.map": "/tryuploadgithub/static/js/main.98f6fd2e.js.map",
+    "main.20b28c07.css.map": "/tryuploadgithub/static/css/main.20b28c07.css.map",
+    "main.df843b30.js.map": "/tryuploadgithub/static/js/main.df843b30.js.map",
     "787.25c38a58.chunk.js.map": "/tryuploadgithub/static/js/787.25c38a58.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.98f6fd2e.js"
+    "static/css/main.20b28c07.css",
+    "static/js/main.df843b30.js"
   ]
 }
