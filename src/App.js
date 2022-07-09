@@ -23,7 +23,7 @@ import TerminalUbuntumini from './TerminalUbuntumini';
 import ConnectTitle from './ConnectTitle';
 import Connecticons from './Connecticons';
 
-
+// try
 
 function App(Topic,Message, link, Title) {
   return (
